@@ -1,8 +1,4 @@
-# Answers-of-exercises-in-advanced-mathematics-textbooks
-
-<br>
-
-## 高等数学 同济版 课后习题 手写步骤+答案
+# 高等数学 同济版 课后习题 手写步骤+答案
 
 <br>
 
